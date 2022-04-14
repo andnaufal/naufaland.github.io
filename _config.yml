@@ -34,13 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Im a first-year student of digital business major at Faculty of Economics and Business, Universitas Padjadjaran.
-
-A well organized and enthusiastic person that likes to improve themself and learn new stuff especially things that are related to technology, business, and design.
-
-Experienced with content creating and engaging audience in social media such as TikTok, and designing using apps like Adobe Photoshop, Adobe Illustrator, and Canva.
-
-Im always up for opportunity thus for further collaboration, please send a message through Linkedin or email to Naufalfazzz@gmail.com.
+about_me_description: Im a first-year student of digital business major at Faculty of Economics and Business, Universitas Padjadjaran. As well organized and enthusiastic person that likes to improve themself and learn new stuff especially things that are related to technology, business, and design. Experienced with content creating and engaging audience in social media such as TikTok, and designing using apps like Adobe Photoshop, Adobe Illustrator, and Canva. Im always up for opportunity thus for further collaboration, please send a message through Linkedin or email to Naufalfazzz@gmail.com.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
